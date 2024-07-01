@@ -6,21 +6,21 @@ The Project Collaboration Platform is all about creating a cool space where user
 
 ## Key Features
 
-**User Profiles: Show off your skills and experience with detailed profiles, and connect it all with your LinkedIn for that professional touch.
-**Project Posting: Share your project ideas with descriptions, tags, and requirements, so others can easily find and join them.
-**Collaboration: Easily form teams, review applications, and work together on projects.
-**Communication: Stay connected and chat in real-time with the integration of Discord/Slack. Get those notifications instantly!
-**Version Control: Seamlessly integrate with GitHub for code versioning and collaboration. Keep everything organized and up-to-date.
-**Web and Mobile App: Access the platform from anywhere with a responsive web application and a mobile app that works across different platforms.
+User Profiles: Show off your skills and experience with detailed profiles, and connect it all with your LinkedIn for that professional touch.
+Project Posting: Share your project ideas with descriptions, tags, and requirements, so others can easily find and join them.
+Collaboration: Easily form teams, review applications, and work together on projects.
+Communication: Stay connected and chat in real-time with the integration of Discord/Slack. Get those notifications instantly!
+Version Control: Seamlessly integrate with GitHub for code versioning and collaboration. Keep everything organized and up-to-date.
+Web and Mobile App: Access the platform from anywhere with a responsive web application and a mobile app that works across different platforms.
 
 ## AI/ML Integration
 
 To take the user experience up a notch, we've incorporated some amazing AI/ML technologies that do the following:
 
-**User and Project Matching: Our clever algorithms match users with projects based on their skills and experience.
-**Natural Language Processing (NLP): We analyze project descriptions and even capture user sentiment.
-**Chatbots and Virtual Assistants: We've got automated onboarding and support covered.
-**Predictive Analytics: We predict project success and help you make timeline adjustments. 
+User and Project Matching: Our clever algorithms match users with projects based on their skills and experience.
+Natural Language Processing (NLP): We analyze project descriptions and even capture user sentiment.
+Chatbots and Virtual Assistants: We've got automated onboarding and support covered.
+Predictive Analytics: We predict project success and help you make timeline adjustments. 
 
 ## Technologies Used
 
